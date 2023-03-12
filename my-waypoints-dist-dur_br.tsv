@@ -1,0 +1,29 @@
+waypoint1	waypoint2	distance_m	duration_s
+Ayers Rock	Cable Beach Western Australia 6726 Australia	3210429	118916
+Great Ocean Road	Cable Beach Western Australia 6726 Australia	4693846	184706
+Sydney Opera House	Cable Beach Western Australia 6726 Australia	5181030	198741
+Adelaide	Cable Beach Western Australia 6726 Australia	4001109	156313
+Cairns	Cable Beach Western Australia 6726 Australia	3887650	149747
+Cradle Mountain, TAS 7306, Australia	Cable Beach Western Australia 6726 Australia	5243547	229769
+Canberra	Cable Beach Western Australia 6726 Australia	5181089	197334
+Ayers Rock	Great Ocean Road	2294884	88018
+Ayers Rock	Sydney Opera House	2840670	106410
+Ayers Rock	Adelaide	1602146	59625
+Ayers Rock	Cairns	2676407	103606
+Ayers Rock	Cradle Mountain, TAS 7306, Australia	2844585	133081
+Ayers Rock	Canberra	2624919	99188
+Great Ocean Road	Sydney Opera House	1071287	39600
+Great Ocean Road	Adelaide	693675	28637
+Great Ocean Road	Cairns	3035958	118930
+Great Ocean Road	Cradle Mountain, TAS 7306, Australia	669601	51799
+Great Ocean Road	Canberra	855536	32378
+Sydney Opera House	Adelaide	1374971	52185
+Cairns	Sydney Opera House	2420576	96713
+Sydney Opera House	Cradle Mountain, TAS 7306, Australia	1477604	79944
+Canberra	Sydney Opera House	285956	11142
+Cairns	Adelaide	2968889	116093
+Cradle Mountain, TAS 7306, Australia	Adelaide	1242306	73621
+Canberra	Adelaide	1158764	44868
+Cairns	Cradle Mountain, TAS 7306, Australia	3441541	159659
+Cairns	Canberra	2515153	100571
+Canberra	Cradle Mountain, TAS 7306, Australia	1261671	72452
